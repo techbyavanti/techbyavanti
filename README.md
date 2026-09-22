@@ -37,6 +37,7 @@ I've worked in self-organizing teams ranging from 2 to 20 people, maintained cod
 - **[search](https://github.com/techbyavanti/search)** — Semantic Search engine, Neural network based Reranker and many more experiments
 - **[recommendation-engine](https://github.com/techbyavanti/recommendation-engine)** — Hexagonal-architecture, gRPC-based recommendation engine over the WANDS catalog, with a GraphQL gateway serving a React UI
 - **[netflix-personalization](https://github.com/techbyavanti/netflix-personalization)** — Demo inspired by Netflix's MAPS artwork-personalization blog post, built with TMDB open data + CLIP embeddings
+- **Mental-Load Copilot** *(private repo)* — An AI copilot for household mental load: a LangGraph agent graph orchestrating retrieval-augmented coaching, crisis/safety detection, and task delegation over a local LLM (Ollama), backed by a React + Spring Boot/GraphQL + Postgres (Row-Level Security) stack with a custom eval harness for groundedness and regression testing
 
 ---
 
@@ -64,3 +65,9 @@ I've worked in self-organizing teams ranging from 2 to 20 people, maintained cod
 ![REST APIs](https://img.shields.io/badge/REST%20APIs-02569B?style=flat&logo=fastapi&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat&logo=langchain&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat&logo=ollama&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat&logo=prometheus&logoColor=white)
