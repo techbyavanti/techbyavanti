@@ -8,7 +8,7 @@ Senior Software Engineer with 9+ years building backend systems, recommendation 
 </p>
 
 - 🔭 Currently showcasing my skills in recommendation and search systems — Netflix CLIP-based personalization demo, Lastest recommendation engines, and ML based Search strategies 
-- 💞️ Open to collaborating on startups and new career opportunities
+- 💞️ Open to collaborating on new career opportunities
 - ⚡ Fun fact: I've led hackathons, founded a women-in-tech org, and helped scale systems handling millions of trades & search services
 
 ---
