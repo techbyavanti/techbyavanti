@@ -34,8 +34,9 @@ I've worked in self-organizing teams ranging from 2 to 20 people, maintained cod
 
 ## Featured Projects
 
-- **[search](https://github.com/techbyavanti/search)** — Semantic Search engine, Neural network based Reranker and many more experiments
-- **[recommendation-engine](https://github.com/techbyavanti/recommendation-engine)** — Hexagonal-architecture, gRPC-based recommendation engine over the WANDS catalog, with a GraphQL gateway serving a React UI
+
+- **[search](https://github.com/techbyavanti/search)** — Semantic product Search over the open furniture catalog in Java with strategies: BM25, Semantic vector search, Hybrid Search and LambdaRank neural reranking, with offline eval
+- **[recommendation-engine](https://github.com/techbyavanti/recommendation-engine)** — Recommendation Engine with strategies like popularity, collaborative filter, Bandit exploration, Neural ranking with Hexagonal-architecture, gRPC-based recommendation engine over the WANDS catalog, with a GraphQL gateway serving a React UI
 - **[netflix-personalization](https://github.com/techbyavanti/netflix-personalization)** — Demo inspired by Netflix's MAPS artwork-personalization blog post, built with TMDB open data + CLIP embeddings
 - **Mental-Load Copilot** *(private repo)* — An AI copilot for household mental load: a LangGraph agent graph orchestrating retrieval-augmented coaching, crisis/safety detection, and task delegation over a local LLM (Ollama), backed by a React + Spring Boot/GraphQL + Postgres (Row-Level Security) stack with a custom eval harness for groundedness and regression testing
 
